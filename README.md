@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nur Mohammad
 
-## Software Engineer
+## Backend Developer
 
 ## 🚀 About Me
 I am a passionate Backend (MERN) focused Software Engineer dedicated to building effective software solutions.  
