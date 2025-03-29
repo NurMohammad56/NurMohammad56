@@ -1,4 +1,32 @@
-Hi there, I'm NUR MOHAMMAD 👋 I am a passionate web developer hailing from the vibrant landscape of Bangladesh. My
-journey into the world of web development began with a spark of curiosity and a desire to shape the digital 
-world. Today, I specialize in MERN stack development, Mongo DB, Express.js, React.js, Node.js,
-and I bring a unique blend of skills and creativity to ever.
+# Hi there 👋, I'm Nur Mohammad
+
+## Software Engineer
+
+## 🚀 About Me
+I am a passionate Backend (MERN) focused Software Engineer dedicated to building effective software solutions.  
+With hands-on experience in web development, I specialize in designing robust APIs, optimizing database performance, and implementing secure authentication.
+
+---
+
+## 🛠 Skills:
+- ✅ JavaScript  
+- ✅ TypeScript  
+- ✅ Node.js  
+- ✅ Express.js    
+- ✅ MongoDB  
+- ✅ Mongoose
+- ✅ Redis
+- ✅ Nginx
+- ✅ Git  
+- ✅ GitHub  
+- ✅ Postman  
+
+---
+
+## 📊 Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=radical)](https://github.com/NurMohammad56/github-readme-stats)
+
+---
+
+## 📫 For Business Inquiries
+📩 [nurmohammad605@gmail.com](nurmohammad605@gmail.com)
