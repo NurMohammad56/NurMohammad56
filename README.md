@@ -29,4 +29,4 @@ With hands-on experience in web development, I specialize in designing robust AP
 ---
 
 ## 📫 For Inquiries
-📩 [nurmohammad605@gmail.com](nurmohammad605@gmail.com)
+📩 [nurmohammad0605@gmail.com](nurmohammad0605@gmail.com)
