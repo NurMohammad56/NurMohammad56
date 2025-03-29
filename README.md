@@ -3,8 +3,7 @@
 ## Backend Developer
 
 ## 🚀 About Me
-I am a passionate Backend (MERN) focused Software Engineer dedicated to building effective software solutions.  
-With hands-on experience in web development, I specialize in designing robust APIs, optimizing database performance, and implementing secure authentication.
+I am a Backend Developer specializing in (MERN), with a strong focus on building scalable and efficient backend systems. With hands-on experience in developing optimized RESTful APIs, optimizing database performance, and implementing secure authentication & many more feature for a better performance.
 
 ---
 
