@@ -8,14 +8,15 @@ With hands-on experience in web development, I specialize in designing robust AP
 
 ---
 
-## 🛠 Skills:
+- ## 🛠 Skills:
 - ✅ JavaScript  
 - ✅ TypeScript  
 - ✅ Node.js  
 - ✅ Express.js  
-- ✅ NestJS  
 - ✅ MongoDB  
-- ✅ Mongoose  
+- ✅ Mongoose
+- ✅ Redis
+- ✅ Nginx  
 - ✅ Git  
 - ✅ GitHub  
 - ✅ Postman
