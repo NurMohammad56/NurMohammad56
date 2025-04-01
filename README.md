@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nur Mohammad
+# Hello 👋, I'm Nur Mohammad
 
 ## Backend Developer
 
