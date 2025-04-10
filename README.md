@@ -9,12 +9,12 @@ I am a Backend Developer specializing in (MERN), with a strong focus on building
 ---
 
 - ## 🛠 Skills:
-- ✅ JavaScript  - ✅ TypeScript  
-- ✅ Node.js  - ✅ Express.js
-- ✅ MongoDB  - ✅ Mongoose
-- ✅ Redis  - ✅ BullMQ
-- ✅ Nginx  - ✅ Node.js Cluster
-- ✅ Git  - ✅ GitHub  
+- ✅ JavaScript  ✅ TypeScript  
+- ✅ Node.js  ✅ Express.js
+- ✅ MongoDB  ✅ Mongoose
+- ✅ Redis  ✅ BullMQ
+- ✅ Nginx  ✅ Node.js Cluster
+- ✅ Git  ✅ GitHub  
 - ✅ Postman
 
 ---
