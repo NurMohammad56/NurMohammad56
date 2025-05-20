@@ -35,7 +35,7 @@ Hello there! 👋 I'm Nur Mohammad, a dedicated Backend Developer with a strong 
 
 ### 🚀 Professional Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,express,firebase,nodejs,nestjs,mongodb,git,linux,figma=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,express,redis,bullmq,nginx,firebase,nodejs,nestjs,mongodb,git,linux,figma=9" alt="Skills" />
 </p>
 
 ### 🌐 Connect with Me
