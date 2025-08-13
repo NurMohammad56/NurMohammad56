@@ -4,12 +4,8 @@
 </h1>
 <h3 align="center" style="color:#81C784;">Backend Developer</h3>
 
-<-- <p align="center"> -->
-<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFD54F&size=24&center=true&vCenter=true&width=500&height=45&lines=Backend+Developer+%7C+Node.js;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" /> -->
-<!-- </p> -->
-
 <p align="center">
-  <img src="https://i.ibb.co/KX5mqgX/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" height="230px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFD54F&size=24&center=true&vCenter=true&width=500&height=45&lines=Backend+Developer+%7C+Node.js;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
