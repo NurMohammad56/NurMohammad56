@@ -64,19 +64,19 @@ With over **2 years of experience** building scalable backend systems, I special
 
 ---
 
-### <h2 style="color:#FFA726;">📊 GitHub Analytics</h2>
+### <h2 style="color:#26C6DA;">📊 GitHub Analytics</h2>
 <div align="center">
   <a href="https://github.com/NurMohammad56">
-    <img src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=FF00FF" width="400" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/NurMohammad56">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurMohammad56&theme=radical&hide_border=true" width="400" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NurMohammad56&theme=highcontrast&hide_border=true&background=0D1117&stroke=FF6D00&ring=00FF9C&fire=FF00FF&currStreakNum=00FF9C" width="400" alt="GitHub Streak"/>
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/NurMohammad56">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&langs_count=8&layout=compact&theme=radical&hide_border=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&langs_count=8&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFEA00&border_color=FF6D00" width="400" alt="Top Languages"/>
   </a>
 </p>
 
