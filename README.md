@@ -82,20 +82,20 @@ With over **2 years of experience** building scalable backend systems, I special
 
 ---
 
-### <h2 style="color:#EC407A;">📈 GitHub Contribution Graph</h2>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
+### <h2 style="color:#26C6DA;">📈 GitHub Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&theme=highcontrast&bg_color=0D1117&hide_border=true&area=true&color=00FF9C&line=FF00FF" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
 
-### <h2 style="color:#26C6DA;">🐍 My Coding Journey</h2>
+### <h2 style="color:#FF7043;">🐍 My Coding Journey</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color=FF6D00&stroke=FFEA00" alt="Contribution Snake Animation" />
 </p>
 
 <p align="center">
-  <em style="color:#FFCA28;">
+  <em style="color:#00FF9C;">
     Just like the snake evolves with each move, I grow with every line of code — solving problems and creating impactful solutions!
   </em>
 </p>
