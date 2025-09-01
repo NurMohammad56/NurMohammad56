@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="35px" />
   
   <h1>
-    Hi there, I'm <span style="color:#26C6DA;">Nur Mohammad</span> 👋
+    Hi there, I'm <span style="color:#26C6DA;">Nur Mohammad</span>
   </h1>
   
   <h3 style="color:#A778FF;">Backend Developer</h3>
@@ -26,7 +26,7 @@
 
 ---
 
-### 💻 My Tech Arsenal
+### 💻 Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,6 +52,10 @@
   <a href="mailto:nurmohammad0605@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ---
@@ -79,6 +83,11 @@
   </a>
 </p>
 
+
+---
+
+
+### <h2 style="color:#FF7043;">🐍 My Coding Journey</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
