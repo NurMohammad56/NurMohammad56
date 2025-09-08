@@ -59,12 +59,22 @@
 </p>
 
 ---
-
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/NurMohammad56"><img src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&hide_border=true&bg_color=0D1117&title_color=26C6DA&icon_color=A778FF&text_color=E0E0E0&count_private=true" alt="Nur Mohammad's GitHub Stats" width="48%"/></a><a href="https://github.com/NurMohammad56"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NurMohammad56&hide_border=true&background=0D1117&stroke=A778FF&ring=26C6DA&fire=FFD54F&currStreakNum=E0E0E0&sideLabels=E0E0E0&currStreakLabel=E0E0E0" alt="Nur Mohammad's GitHub Streak" width="48%"/></a>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/NurMohammad56">
+    <img src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&hide_border=true&bg_color=0D1117&title_color=26C6DA&icon_color=A778FF&text_color=FFFFFF&count_private=true" alt="Nur Mohammad's GitHub Stats" width="48%"/>
+  </a>
+
+  <!-- GitHub Streak -->
+  <a href="https://github.com/NurMohammad56">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurMohammad56&hide_border=true&background=0D1117&stroke=A778FF&ring=26C6DA&fire=FFD54F&currStreakNum=FFFFFF&sideLabels=E0E0E0&currStreakLabel=FFFFFF" alt="Nur Mohammad's GitHub Streak" width="48%"/>
+  </a>
+  
   <br/><br/>
+
+  <!-- Top Languages -->
   <a href="https://github.com/NurMohammad56">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&langs_count=8&layout=compact&hide_border=true&bg_color=0D1117&title_color=26C6DA&text_color=E0E0E0" alt="Top Languages"/>
   </a>
@@ -72,15 +82,14 @@
 
 <br/>
 
+<!-- Contribution Graph -->
 <p align="center">
   <a href="https://github.com/NurMohammad56">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=26C6DA&line=A778FF" alt="GitHub Contribution Graph"/>
   </a>
 </p>
 
-
 ---
-
 
 ### <h2 style="color:#FF7043;">🐍 My Coding Journey</h2>
 
