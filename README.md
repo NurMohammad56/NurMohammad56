@@ -69,7 +69,7 @@
 
   <!-- GitHub Streak -->
   <a href="https://github.com/NurMohammad56">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurMohammad56&hide_border=true&background=0D1117&stroke=A778FF&ring=26C6DA&fire=FFD54F&currStreakNum=FFFFFF&sideLabels=E0E0E0&currStreakLabel=FFFFFF" alt="Nur Mohammad's GitHub Streak" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurMohammad56&hide_border=true&background=0D1117&stroke=A778FF&ring=26C6DA&fire=FFD54F&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=E0E0E0" alt="Nur Mohammad's GitHub Streak" width="48%"/>
   </a>
   
   <br/><br/>
@@ -88,6 +88,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=26C6DA&line=A778FF" alt="GitHub Contribution Graph"/>
   </a>
 </p>
+
 
 ---
 
