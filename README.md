@@ -89,11 +89,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=26C6DA&line=A778FF" alt="GitHub Contribution Graph"/>
   </a>
 </p>
-
----
-
-### <h2 style="color:#FF7043;">🐍 My Coding Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
