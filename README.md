@@ -98,18 +98,42 @@ const nurMohammad = {
 
 <div align="center">
 
-### 🎓 Currently Learning
-**Nest.js** Advanced Patterns • **Microservices** Architecture • **GraphQL** & Apollo • **System Design** Principles
-
-### 💼 Building
-Scalable REST APIs • Real-time Applications • Authentication Systems • Game Logic Engines
-
-### 🌟 Exploring
-Cloud Technologies • DevOps Practices • Performance Optimization • Database Design
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/clouds/100/000000/student-center.png" alt="Learning"/>
+      <h3>🎓 Learning</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js"/><br/>
+        <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=apache&logoColor=white" alt="Microservices"/><br/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/><br/>
+        <img src="https://img.shields.io/badge/System_Design-4A90E2?style=flat-square&logo=webpack&logoColor=white" alt="System Design"/>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/clouds/100/000000/code.png" alt="Building"/>
+      <h3>💼 Building</h3>
+      <p>
+        <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/><br/>
+        <img src="https://img.shields.io/badge/Real--time_Apps-FF9800?style=flat-square&logo=socket.io&logoColor=white" alt="Real-time"/><br/>
+        <img src="https://img.shields.io/badge/Authentication-6A1B9A?style=flat-square&logo=auth0&logoColor=white" alt="Auth"/><br/>
+        <img src="https://img.shields.io/badge/Game_Logic-E91E63?style=flat-square&logo=unity&logoColor=white" alt="Game Logic"/>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/clouds/100/000000/quest.png" alt="Exploring"/>
+      <h3>🌟 Exploring</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Cloud_Tech-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud"/><br/>
+        <img src="https://img.shields.io/badge/DevOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="DevOps"/><br/>
+        <img src="https://img.shields.io/badge/Performance-00C853?style=flat-square&logo=speedtest&logoColor=white" alt="Performance"/><br/>
+        <img src="https://img.shields.io/badge/Database_Design-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="Database"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<br/>
 
 
 <!-- Gradient Divider -->
