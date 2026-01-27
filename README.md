@@ -72,21 +72,11 @@ const nurMohammad = {
 
 <div align="center">
   
-  <!-- GitHub Stats with Custom Theme -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F59E0B&text_color=FFFFFF&ring_color=A78BFA&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  
   <!-- GitHub Streak Stats -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=NurMohammad56&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E" alt="GitHub Streak"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <!-- Top Languages Card -->
+   <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-
 
 </div>
 
