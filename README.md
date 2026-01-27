@@ -19,10 +19,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-0A4335?style=for-the-badge&logo=github&logoColor=white&labelColor=0A4335" alt="GitHub"/>
   </a>
   
-  <br/><br/>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=NurMohammad56&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
+  <br/>
   
 </div>
 
