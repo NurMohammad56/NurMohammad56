@@ -81,7 +81,7 @@ const nurMohammad = {
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=Nur%20Mohammad's%20Contribution%20Graph&theme=github-compact&bg_color=00000000&color=A78BFA&line=F59E0B&point=FFFFFF&area=true&hide_border=true&area_color=A78BFA" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=Nur%20Mohammad's%20Contribution%20Graph&theme=github-compact&bg_color=00000000&color=A78BFA&line=F59E0B&point=00C853&area=true&hide_border=true&area_color=A78BFA" alt="Contribution Graph"/>
 </div>
 
 <br/>
