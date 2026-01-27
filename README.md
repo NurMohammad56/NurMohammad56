@@ -100,7 +100,7 @@ const nurMohammad = {
 
 <table>
   <tr>
-    <td align="center" width="40%">
+    <td align="center" width="33%">
       <h3>🎓 Learning</h3>
       <p>
         <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js"/><br/>
@@ -121,7 +121,7 @@ const nurMohammad = {
         <img src="https://img.shields.io/badge/Authentication-6A1B9A?style=flat-square&logo=auth0&logoColor=white" alt="Auth"/><br/>
       </p>
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="33%">
       <h3>🌟 Exploring</h3>
       <p>
         <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI"/><br/>
