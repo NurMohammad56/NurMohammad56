@@ -73,10 +73,10 @@ const nurMohammad = {
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=NurMohammad56&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=NurMohammad56&theme=radical&hide_border=true&stroke=A78BFA&ring=F59E0B&fire=F59E0B&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=F59E0B&sideLabels=F59E0B&dates=8B949E" alt="GitHub Streak"/>
 
    <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=radical&hide_border=true&title_color=A78BFA&text_color=8B949E&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -84,7 +84,7 @@ const nurMohammad = {
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=Nur%20Mohammad's%20Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=F59E0B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=Nur%20Mohammad's%20Contribution%20Graph&theme=github-compact&bg_color=00000000&color=A78BFA&line=F59E0B&point=FFFFFF&area=true&hide_border=true&area_color=A78BFA" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -98,25 +98,14 @@ const nurMohammad = {
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Nur Mohammad))
-    🎓 Learning
-      Nest.js Advanced Patterns
-      Microservices Architecture
-      GraphQL & Apollo
-      System Design
-    💼 Building
-      Scalable REST APIs
-      Real-time Applications
-      Authentication Systems
-      Game Logic Engines
-    🌟 Exploring
-      Cloud Technologies
-      DevOps Practices
-      Performance Optimization
-      Database Design
-```
+### 🎓 Currently Learning
+**Nest.js** Advanced Patterns • **Microservices** Architecture • **GraphQL** & Apollo • **System Design** Principles
+
+### 💼 Building
+Scalable REST APIs • Real-time Applications • Authentication Systems • Game Logic Engines
+
+### 🌟 Exploring
+Cloud Technologies • DevOps Practices • Performance Optimization • Database Design
 
 </div>
 
