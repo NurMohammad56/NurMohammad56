@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nur%20Mohammad&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
   
   <!-- Animated Greeting -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=940&lines=Hey+there!+👋+I'm+Nur+Mohammad;Backend+Architect+%7C+Node.js+Specialist;Building+Scalable+%26+High-Performance+Systems;2%2B+Years+of+Crafting+Digital+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=940&lines=Hey+there!+👋+I'm+Nur+Mohammad;Backend+Architect+%7C+Node.js+Specialist;Building+Scalable+%26+High-Performance+Systems;2%2B+Years+of+Crafting+Digital+Excellence" alt="Typing SVG" />
   
   <br/>
   
@@ -106,7 +106,7 @@ const nurMohammad = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F59E0B&text_color=FFFFFF&ring_color=A78BFA&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   
   <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NurMohammad56&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=NurMohammad56&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
@@ -116,9 +116,7 @@ const nurMohammad = {
   
   <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  
-  <!-- Trophy Stats -->
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=NurMohammad56&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
 
 </div>
 
@@ -164,46 +162,9 @@ mindmap
 
 <br/>
 
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
 
-## 🏆 Achievements & Highlights
 
-<div align="center">
-
-| 🎯 | Achievement |
-|---|---|
-| 💻 | **2+ Years** of professional backend development |
-| 🚀 | Built **scalable systems** serving thousands of users |
-| 🔐 | Architected **secure authentication** flows |
-| 🎮 | Engineered **complex game logic** systems |
-| ⚡ | Optimized **API performance** by 40% |
-| 📚 | Mentored **junior developers** in Node.js |
-
-</div>
-
-<br/>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 💡 Fun Facts About Me
-
-<div align="center">
-
-🌙 **Night Owl Coder** - My best code is written after midnight ⏰  
-☕ **Coffee Powered** - Fueled by caffeine and clean code 💪  
-🎮 **Game Logic Enthusiast** - Love building complex game mechanics 🕹️  
-📖 **Continuous Learner** - Always exploring new technologies 🚀  
-🎨 **Design Appreciator** - Backend with an eye for frontend beauty ✨
-
-</div>
-
-<br/>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -239,22 +200,10 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Quote -->
-<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" alt="Quote"/>
-
-<br/><br/>
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NurMohammad56/NurMohammad56/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NurMohammad56/NurMohammad56/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NurMohammad56/NurMohammad56/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
