@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/NurMohammad56">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A4335" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-0A4335?style=for-the-badge&logo=github&logoColor=white&labelColor=0A4335" alt="GitHub"/>
   </a>
   
   <br/><br/>
@@ -148,7 +148,7 @@ mindmap
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/NurMohammad56">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-EA4335?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
