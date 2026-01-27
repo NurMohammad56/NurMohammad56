@@ -72,20 +72,6 @@ const nurMohammad = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Stack & Tools
 
-<div align="center">
-
-### 🎯 Core Backend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,redis,firebase&theme=dark" alt="Backend Stack"/>
-</p>
-
-### ⚡ Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind&theme=dark" alt="Languages"/>
-</p>
-
-</div>
-
 <br/>
 
 <!-- Gradient Divider -->
