@@ -38,10 +38,10 @@
 ```typescript
 const nurMohammad = {
     role: "Backend Developer",
-    location: "Gazipur, Dhaka, Bangladesh 🇧🇩",
+    location: "Dhaka, Bangladesh",
     experience: "2+ Years",
     
-    code: ["JavaScript", "TypeScript", "Python", "SQL"],
+    code: ["JavaScript", "TypeScript"],
     technologies: {
         backend: {
             runtime: ["Node.js"],
@@ -50,15 +50,15 @@ const nurMohammad = {
             architecture: ["REST APIs", "Microservices", "WebSockets"]
         },
         frontend: {
-            js: ["React", "Next.js"],
-            styling: ["Tailwind CSS", "Material-UI"]
+            js: ["React"],
+            styling: ["Tailwind CSS"]
         },
         devOps: ["Docker", "Nginx", "Linux", "Git"],
         tools: ["Postman", "Figma", "VS Code"]
     },
     
-    currentFocus: "Mastering Nest.js & Microservices Architecture 🚀",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
+    currentFocus: "Learning Nest.js & Microservices Architecture",
+    funFact: "I debug with console.log() and I'm not ashamed.😒",
     philosophy: "Clean code is not written by following rules. It's written by professionals with a deep sense of care."
 };
 ```
@@ -81,12 +81,7 @@ const nurMohammad = {
 
 ### ⚡ Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind&theme=dark" alt="Languages"/>
-</p>
-
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,postman,figma,vscode&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind&theme=dark" alt="Languages"/>
 </p>
 
 </div>
@@ -101,9 +96,6 @@ const nurMohammad = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <!-- GitHub Stats with Custom Theme -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F59E0B&text_color=FFFFFF&ring_color=A78BFA&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   
   <!-- GitHub Streak Stats -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=NurMohammad56&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E" alt="GitHub Streak"/>
@@ -195,10 +187,6 @@ mindmap
 </a>
 
 <br/><br/>
-
-### ⭐ If you find my work interesting, feel free to star my repositories!
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
