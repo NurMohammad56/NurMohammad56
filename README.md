@@ -31,8 +31,6 @@
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
 ```typescript
@@ -67,25 +65,6 @@ const nurMohammad = {
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Stack & Tools
-
-<br/>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-  
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-
-
-</div>
 
 <br/>
 
