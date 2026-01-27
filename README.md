@@ -79,17 +79,6 @@ const nurMohammad = {
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=NurMohammad56&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
 <div align="center">
   
   <!-- Top Languages Card -->
