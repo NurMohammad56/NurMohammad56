@@ -19,7 +19,10 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-0A4335?style=for-the-badge&logo=github&logoColor=white&labelColor=0A4335" alt="GitHub"/>
   </a>
   
-  <br/>
+  <br/><br/>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=NurMohammad56&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
   
 </div>
 
@@ -69,11 +72,11 @@ const nurMohammad = {
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=NurMohammad56&theme=radical&hide_border=true&stroke=A78BFA&ring=F59E0B&fire=F59E0B&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=F59E0B&sideLabels=F59E0B&dates=8B949E" alt="GitHub Streak"/>
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&theme=radical&hide_border=true&title_color=A78BFA&icon_color=F59E0B&text_color=FFFFFF&bg_color=00000000&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
    <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=radical&hide_border=true&title_color=A78BFA&text_color=8B949E&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=radical&hide_border=true&title_color=A78BFA&text_color=8B949E&langs_count=8&bg_color=00000000" alt="Top Languages"/>
 
 </div>
 
@@ -102,13 +105,14 @@ const nurMohammad = {
       <p>
         <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js"/><br/>
         <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=apache&logoColor=white" alt="Microservices"/><br/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/><br/>
         <img src="https://img.shields.io/badge/System_Design-4A90E2?style=flat-square&logo=webpack&logoColor=white" alt="System Design"/><br/>
         <img src="https://img.shields.io/badge/Performance_Optimization-00C853?style=flat-square&logo=speedtest&logoColor=white" alt="Performance"/><br/>
         <img src="https://img.shields.io/badge/Scalability-FF6F00?style=flat-square&logo=scaleway&logoColor=white" alt="Scalability"/><br/>
+        <img src="https://img.shields.io/badge/Load_Balancing-2196F3?style=flat-square&logo=nginx&logoColor=white" alt="Load Balancing"/>
       </p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/clouds/100/000000/code.png" alt="Building"/>
       <h3>💼 Building</h3>
       <p>
         <img src="https://img.shields.io/badge/Web_Backend-009688?style=flat-square&logo=nodedotjs&logoColor=white" alt="Web Backend"/><br/>
@@ -116,6 +120,7 @@ const nurMohammad = {
         <img src="https://img.shields.io/badge/REST_APIs-0288D1?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/><br/>
         <img src="https://img.shields.io/badge/Real--time_Apps-FF9800?style=flat-square&logo=socket.io&logoColor=white" alt="Real-time"/><br/>
         <img src="https://img.shields.io/badge/Authentication-6A1B9A?style=flat-square&logo=auth0&logoColor=white" alt="Auth"/><br/>
+        <img src="https://img.shields.io/badge/Game_Logic-E91E63?style=flat-square&logo=unity&logoColor=white" alt="Game Logic"/>
       </p>
     </td>
     <td align="center" width="33%">
@@ -123,6 +128,7 @@ const nurMohammad = {
       <p>
         <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI"/><br/>
         <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/><br/>
+        <img src="https://img.shields.io/badge/Cloud_Technologies-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud"/><br/>
         <img src="https://img.shields.io/badge/DevOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="DevOps"/><br/>
         <img src="https://img.shields.io/badge/New_Tech_Trends-9C27B0?style=flat-square&logo=googlechrome&logoColor=white" alt="New Tech"/><br/>
         <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless"/>
@@ -132,6 +138,8 @@ const nurMohammad = {
 </table>
 
 </div>
+
+<br/>
 
 
 <!-- Gradient Divider -->
