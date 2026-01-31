@@ -31,7 +31,7 @@
 ```typescript
 const nurMohammad = {
     role: "Backend Developer",
-    location: "Dhaka, Bangladesh 🇧🇩",
+    location: "Dhaka, Bangladesh",
     experience: "2+ Years",
     
     code: ["JavaScript", "TypeScript"],
@@ -102,7 +102,7 @@ const nurMohammad = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🎓 Learning</h3>
+      <h3>Learning</h3>
       <p>
         <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/><br/>
         <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" alt="Microservices"/><br/>
@@ -113,7 +113,7 @@ const nurMohammad = {
       </p>
     </td>
     <td align="center" width="33%">
-      <h3>💼 Building</h3>
+      <h3>Building</h3>
       <p>
         <img src="https://img.shields.io/badge/Web_Backend-009688?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Web Backend"/><br/>
         <img src="https://img.shields.io/badge/Mobile_Backend-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Backend"/><br/>
@@ -124,7 +124,7 @@ const nurMohammad = {
       </p>
     </td>
     <td align="center" width="33%">
-      <h3>🌟 Exploring</h3>
+      <h3>Exploring</h3>
       <p>
         <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/><br/>
         <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/><br/>
@@ -148,12 +148,14 @@ const nurMohammad = {
 
 ## 📬 Let's Connect & Collaborate!
 
+<br/>
+
 <div align="center">
 
 <p>
-  💼 Open to exciting backend opportunities and collaborations<br/>
-  🤝 Always happy to help fellow developers<br/>
-  📧 Reach out for project discussions or tech talks!
+  Open to exciting backend opportunities and collaborations<br/>
+  Always happy to help fellow developers<br/>
+  Reach out for project discussions or tech talks!
 </p>
 
 <br/>
