@@ -21,7 +21,12 @@
   
   <br/><br/>
   
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=NurMohammad56&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
+  
 </div>
+
+<br/>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -56,30 +61,44 @@ const nurMohammad = {
 };
 ```
 
+<br/>
+
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&theme=radical&hide_border=true&title_color=A78BFA&icon_color=F59E0B&text_color=FFFFFF&bg_color=00000000&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <!-- GitHub Stats Card with Cache Busting -->
+  <a href="https://github.com/NurMohammad56">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=F59E0B&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+  </a>
 
-   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=radical&hide_border=true&title_color=A78BFA&text_color=8B949E&langs_count=8&bg_color=00000000" alt="Top Languages"/>
+   <!-- Top Languages Card with Cache Busting -->
+  <a href="https://github.com/NurMohammad56">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=8B949E&bg_color=0D1117&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+  </a>
 
 </div>
 
+<br/>
+
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=Nur%20Mohammad's%20Contribution%20Graph&theme=github-compact&bg_color=00000000&color=A78BFA&line=F59E0B&point=A78BFA&area=true&hide_border=true&area_color=A78BFA" alt="Contribution Graph"/>
+  <a href="https://github.com/NurMohammad56">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=Nur%20Mohammad's%20Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=F59E0B&point=FFFFFF&area=true&hide_border=true&area_color=A78BFA" alt="Contribution Graph"/>
+  </a>
 </div>
 
 <br/>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 ## 🎯 What I'm Up To
 
@@ -125,6 +144,9 @@ const nurMohammad = {
 </table>
 
 </div>
+
+<br/>
+
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
