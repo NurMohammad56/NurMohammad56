@@ -19,12 +19,6 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
   
-  <br/><br/>
-  
-  <!-- Profile Views Counter & Followers -->
-  <img src="https://komarev.com/ghpvc/?username=NurMohammad56&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/NurMohammad56?label=Followers&style=for-the-badge&color=F59E0B&labelColor=0D1117" alt="Followers"/>
-  
 </div>
 
 <br/>
@@ -61,34 +55,6 @@ const nurMohammad = {
     philosophy: "Clean code is not written by following rules. It's written by professionals with a deep sense of care."
 };
 ```
-
-<br/>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Stack & Tools
-
-<div align="center">
-
-### 🎯 Backend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,redis,firebase&theme=dark" alt="Backend Stack"/>
-</p>
-
-### ⚡ Languages & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind&theme=dark" alt="Languages"/>
-</p>
-
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,postman,figma,vscode&theme=dark" alt="Tools"/>
-</p>
-
-</div>
 
 <br/>
 
@@ -153,29 +119,10 @@ const nurMohammad = {
 
 ## 📊 Coding Journey
 
-<div align="center">
-
-<!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NurMohammad56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=8B949E&langs_count=8" alt="WakaTime Stats" />
-
-</div>
-
-<br/>
-
 <!-- Detailed Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=📈%20My%20Contribution%20Journey&bg_color=0D1117&color=A78BFA&line=F59E0B&point=FFFFFF&area=true&hide_border=true&area_color=A78BFA" width="98%"/>
 </div>
-
-<br/>
-
-<!-- GitHub Stats in Grid Layout -->
-<div align="center">
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=NurMohammad56&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&icon_color=F59E0B" alt="Contribution Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=8B949E&langs_count=8" alt="Top Languages Donut"/>
-</div>
-
-<br/>
 
 <!-- Coding Stats Card -->
 <div align="center">
@@ -199,14 +146,6 @@ const nurMohammad = {
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NurMohammad56&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
 
 <br/>
 
