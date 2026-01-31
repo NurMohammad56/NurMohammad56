@@ -97,6 +97,8 @@ const nurMohammad = {
 
 ## 🎯 What I'm Up To
 
+<br/>
+
 <div align="center">
 
 <table>
