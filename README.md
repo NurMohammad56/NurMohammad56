@@ -63,6 +63,36 @@ const nurMohammad = {
 
 <br/>
 
+## 📊 Coding Journey
+
+<!-- Detailed Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=📈%20My%20Contribution%20Journey&bg_color=0D1117&color=A78BFA&line=F59E0B&point=FFFFFF&area=true&hide_border=true&area_color=A78BFA" width="98%"/>
+</div>
+
+<!-- Coding Stats Card -->
+<div align="center">
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NurMohammad56&theme=tokyonight" width="98%" alt="Profile Summary"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Additional Metrics -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurMohammad56&theme=tokyonight" width="32%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NurMohammad56&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NurMohammad56&theme=tokyonight&utcOffset=6" width="32%" alt="Productive Time"/>
+
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
 ## 🎯 What I'm Up To
 
 <div align="center">
@@ -109,45 +139,6 @@ const nurMohammad = {
 </table>
 
 </div>
-
-<br/>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📊 Coding Journey
-
-<!-- Detailed Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=📈%20My%20Contribution%20Journey&bg_color=0D1117&color=A78BFA&line=F59E0B&point=FFFFFF&area=true&hide_border=true&area_color=A78BFA" width="98%"/>
-</div>
-
-<!-- Coding Stats Card -->
-<div align="center">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NurMohammad56&theme=tokyonight" width="98%" alt="Profile Summary"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Additional Metrics -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurMohammad56&theme=tokyonight" width="32%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NurMohammad56&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NurMohammad56&theme=tokyonight&utcOffset=6" width="32%" alt="Productive Time"/>
-
-</div>
-
-<br/>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
