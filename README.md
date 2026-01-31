@@ -100,7 +100,6 @@ const nurMohammad = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=A78BFA" width="80px"/>
       <h3>🎓 Learning</h3>
       <p>
         <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/><br/>
@@ -112,7 +111,6 @@ const nurMohammad = {
       </p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=F59E0B" width="80px"/>
       <h3>💼 Building</h3>
       <p>
         <img src="https://img.shields.io/badge/Web_Backend-009688?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Web Backend"/><br/>
@@ -124,7 +122,6 @@ const nurMohammad = {
       </p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=zJh5Gyrd6ZKu&format=png&color=9C27B0" width="80px"/>
       <h3>🌟 Exploring</h3>
       <p>
         <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/><br/>
@@ -170,42 +167,8 @@ const nurMohammad = {
 
 <br/><br/>
 
-<!-- GitHub Activity -->
-<details>
-<summary>📊 <b>Recent GitHub Activity</b></summary>
-<br/>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<br/>
-
-<!-- Support Section -->
-<details>
-<summary>☕ <b>Support My Work</b></summary>
-<br/>
-
-If you like my work and want to support me, you can:
-
-- ⭐ Star my repositories
-- 🍴 Fork and contribute to my projects
-- 📢 Share my work with others
-- 💬 Leave feedback and suggestions
-
-</details>
-
-<br/>
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
 </div>
