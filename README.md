@@ -56,12 +56,9 @@ const nurMohammad = {
 };
 ```
 
-<br/>
-
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
 
 ## 📊 Coding Journey
 
@@ -84,7 +81,6 @@ const nurMohammad = {
 <!-- Additional Metrics -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurMohammad56&theme=tokyonight" width="32%" alt="Repos per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NurMohammad56&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NurMohammad56&theme=tokyonight&utcOffset=6" width="32%" alt="Productive Time"/>
 
 </div>
 
@@ -93,11 +89,8 @@ const nurMohammad = {
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-
 ## 🎯 What I'm Up To
 
-<br/>
 
 <div align="center">
 
@@ -141,12 +134,9 @@ const nurMohammad = {
 
 </div>
 
-<br/>
-
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
 
 ## 📬 Let's Connect & Collaborate!
 
