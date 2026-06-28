@@ -147,7 +147,7 @@ const nurMohammad = {
 <p>
   Open to exciting backend opportunities and collaborations<br/>
   Always happy to help fellow developers<br/>
-  Reach out for project discussions or tech talks!
+  Reach out for project discussions or tech talks.
 </p>
 
 <br/>
