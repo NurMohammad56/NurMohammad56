@@ -51,7 +51,7 @@ const nurMohammad = {
     },
     
     currentFocus: "Learning Nest.js & Microservices Architecture",
-    funFact: "I debug with console.log() and I'm not ashamed.",
+    funFact: "I debug with console.log() and I'm not ashamed...",
     philosophy: "Clean code is not written by following rules. It's written by professionals with a deep sense of care."
 };
 ```
