@@ -60,7 +60,7 @@ const nurMohammad = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 📊 Coding Journey
+## 📊 Coding Journey.
 
 <!-- Detailed Contribution Graph -->
 <div align="center">
@@ -89,7 +89,7 @@ const nurMohammad = {
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 What I am Up To
+## 🎯 What I am Up To.
 
 
 <div align="center">
@@ -138,7 +138,7 @@ const nurMohammad = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 📬 Let's Connect & Collaborate
+## 📬 Let's Connect & Collaborate.
 
 <br/>
 
