@@ -30,7 +30,7 @@
 
 ```typescript
 const nurMohammad = {
-    role: "Backend Developer",
+    role: "Backend Enginner",
     location: "Dhaka, Bangladesh",
     experience: "2+ Years",
     
@@ -39,15 +39,10 @@ const nurMohammad = {
         backend: {
             runtime: ["Node.js"],
             frameworks: ["Express.js", "Nest.js"],
-            databases: ["MongoDB", "Redis", "Firebase"],
+            databases: ["MongoDB", "Redis", "PostgreSQL"],
             architecture: ["REST APIs", "Microservices", "WebSockets"]
         },
-        frontend: {
-            js: ["React"],
-            styling: ["Tailwind CSS"]
-        },
         devOps: ["Docker", "Nginx", "Linux", "Git"],
-        tools: ["Postman", "Figma", "VS Code"]
     },
     
     currentFocus: "Learning Nest.js & Microservices Architecture",
