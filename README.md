@@ -39,7 +39,7 @@ const nurMohammad = {
         backend: {
             runtime: ["Node.js"],
             frameworks: ["Express.js", "Nest.js"],
-            databases: ["MongoDB", "Redis", "PostgreSQL"],
+            databases: ["MongoDB", "Redis", "PostgreSQL, SQL"],
             architecture: ["REST APIs", "Microservices", "WebSockets"]
         },
         devOps: ["Docker", "Nginx", "Linux", "Git"],
