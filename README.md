@@ -15,9 +15,6 @@
   <a href="mailto:nurmohammad0605@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  <a href="https://github.com/NurMohammad56">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
   
 </div>
 
@@ -46,7 +43,7 @@ const nurMohammad = {
     },
     
     currentFocus: "Learning Nest.js & Microservices Architecture",
-    funFact: "I debug with console.log() and I'm not ashamed..",
+    funFact: "I debug with console.log() and I'm not ashamed.",
     philosophy: "Clean code is not written by following rules. It's written by professionals with a deep sense of care."
 };
 ```
