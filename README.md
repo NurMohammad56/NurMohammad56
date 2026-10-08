@@ -55,9 +55,9 @@ const nurMohammad = {
 ## 📊 Coding Journey
 
 <!-- Detailed Contribution Graph -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&custom_title=📈%20My%20Contribution%20Journey&bg_color=0D1117&color=A78BFA&line=F59E0B&point=FFFFFF&area=true&hide_border=true&area_color=A78BFA" width="98%"/>
-</div>
+</div> -->
 
 <!-- Coding Stats Card -->
 <div align="center">
